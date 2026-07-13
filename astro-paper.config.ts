@@ -32,7 +32,7 @@ export default defineAstroPaperConfig({
     { name: "github",   url: "https://github.com/xiaolaji404" },
     // { name: "x",        url: "https://x.com/username" },
     // { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "xiaolaji1357@gmail.com" },
+    { name: "mail",     url: "mailto:xiaolaji1357@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
