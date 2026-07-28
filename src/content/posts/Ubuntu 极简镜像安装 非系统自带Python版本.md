@@ -1,6 +1,7 @@
 ---
 author: "星陨"
 pubDatetime: 2026-07-28T17:40:00
+timezone: Asia/Shanghai
 title: "Ubuntu 极简镜像安装 非系统自带Python版本"
 tags:
   - "镜像构建"

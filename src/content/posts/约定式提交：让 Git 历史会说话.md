@@ -1,6 +1,7 @@
 ---
 author: "星陨"
 pubDatetime: 2026-07-11T15:39:00
+timezone: Asia/Shanghai
 title: "约定式提交：让 Git 历史会说话"
 tags:
   - "Git"
